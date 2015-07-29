@@ -70,7 +70,7 @@ function getWinner(playerMove,computerMove) {
             winner = "computer";
         } else  
             winner = "tie";
-        }
+        
     return winner;
 }
 
